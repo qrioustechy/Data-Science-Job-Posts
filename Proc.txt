@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Job_Postings.py
